@@ -1,1 +1,2 @@
-# AutoML - AWS Sagemaker + AutoGluon Boat Classification
+# AutoML - AWS Sagemaker + AutoGluon 
+> ## Boat Classification - Classify different types of boats.
